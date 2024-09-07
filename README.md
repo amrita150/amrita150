@@ -6,5 +6,9 @@
 😄 Pronouns: she/her  
 ⚡ Fun fact: I love doing art and craft in my free time!  
 
+### About Me
+
+I completed my BSc in Computer Science from Sri Guru Gobind Singh College of Commerce, and I’m currently pursuing my MCA from Guru Gobind Singh Indraprastha University. I'm always eager to learn about new technologies and improve my coding skills. 
 
 Feel free to check out my repositories or connect with me for collaboration!
+
